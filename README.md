@@ -7,6 +7,7 @@
 <br/>
 
 <div align="center">
+    <a href="https://team-orphan.vercel.app/">Live Demo</a> •
     <a href="#quick-start">Quick Start</a> •
     <a href="#key-features">Key Features</a> •
     <a href="#architecture">Architecture</a> •
@@ -19,8 +20,11 @@
 
 A full-stack, neo-brutalist web application designed for students, developers, competitive programmers, and participants in hackathons, esports, robotics arenas, and college activities. TeamOrphan connects incomplete teams with available talent and enforces a strict, server-verified 24-hour recruitment freeze before event kickoff.
 
+**Live Application**: [https://team-orphan.vercel.app/](https://team-orphan.vercel.app/)
+
 <br/>
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-team--orphan.vercel.app-blueviolet?style=flat-square)](https://team-orphan.vercel.app/)
 [![Next.js](https://img.shields.io/badge/Next.js-14.2-black?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.6-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-18.3-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/)
